@@ -1,0 +1,19 @@
+{
+  "message": {
+    "welcome": "Bienvenido a tu aplicación Vue App + TypeScript + Quasar UI componentes",
+    "build": "Has creado un proyecto satisfactoriamente con",
+    "build_next": "Que sigue?",
+    "about_text": "Esta es la pagina acerca de",
+    "dark_mode_label": "Modo oscuro | Modo día",
+    "language_label": "Lenguage",
+    "header_title": "Encabezado",
+    "menu_home": "Principal",
+    "menu_about": "Acerca",
+    "menu_inbox": "Entrada",
+    "menu_star": "Preferidos",
+    "menu_send": "Enviados",
+    "menu_drafts": "Borradores",
+    "menu_icons": "Iconos",
+    "menu_i18n": "i18n"
+  }
+}

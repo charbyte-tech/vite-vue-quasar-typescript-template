@@ -1,0 +1,19 @@
+{
+  "message": {
+    "welcome": "Welcome to Your Vue App + TypeScript + Quasar UI components",
+    "build": "You’ve successfully created a project with",
+    "build_next": "What's next?",
+    "about_text": "This is an about page",
+    "dark_mode_label": "Dark mode | Day mode",
+    "language_label": "Language",
+    "header_title": "Header",
+    "menu_home": "Home",
+    "menu_about": "About",
+    "menu_inbox": "Inbox",
+    "menu_star": "Star",
+    "menu_send": "Send",
+    "menu_drafts": "Drafts",
+    "menu_icons": "Icons",
+    "menu_i18n": "i18n"
+  }
+}
